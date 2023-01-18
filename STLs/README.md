@@ -4,4 +4,5 @@ Print settings:
 - 15% infill
 
 Print Orientation:
-<img width="1474" alt="image" src="https://user-images.githubusercontent.com/37383368/213077414-0ad489f8-70f8-494a-a0dc-e32a1f3bbcf1.png">
+<img width="1442" alt="image" src="https://user-images.githubusercontent.com/37383368/213206564-d0384b9c-15b3-46b8-9e20-ce0282fb8f12.png">
+
