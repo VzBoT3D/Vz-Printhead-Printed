@@ -1,3 +1,4 @@
+# BETA ! UNTESTED ! We need help from the community to test and report feedback. Use at your own risk
 # The Vz-Printhead Printed Version
 
 The Vz-Printhead is a light weight  and stiff head made for the VzBoTs. It was designed to be compatible with almost all hotends,
