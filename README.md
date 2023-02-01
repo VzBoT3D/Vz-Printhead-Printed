@@ -4,7 +4,7 @@
 The Vz-Printhead is a light weight  and stiff head made for the VzBoTs. It was designed to be compatible with almost all hotends,
 and extruders out there. With the height adjustable fan duct, you can easily change your config without having to re-print a new fan duct.
 
-If you wish to support my work, please consider a small donation at: https://ko-fi.com/vez3d
+# If you wish to support my work, please consider a small donation at: https://ko-fi.com/vez3d
 
 ![vz-Printhead Printed](https://user-images.githubusercontent.com/37383368/212792934-23a15a4c-6bd0-41ab-9c1b-562e4f4d0f15.PNG)
 
