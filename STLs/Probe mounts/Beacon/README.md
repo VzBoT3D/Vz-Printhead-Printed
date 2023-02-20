@@ -6,14 +6,20 @@ Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will
 
 | Hotend | Spacer lenght  |
 | ------ | ----           |
-|Goliath long version (Goliath with it's heatsink)| 23.15mm |
-|Goliath Short version (Goliath without heatsink)| 8mm |
-|Rapido HF|  8mm|
-|Rapido UHF| 16.5mm |
-|Dragon with crazy NV volcano| 8mm |
-|Magnum+| 20mm |
+|Goliath long version (Goliath with it's heatsink)| 21.15mm |
+|Rapido HF|  not compatble (unless the hotend universal adapter plate is thicker to lower the hotend)|
+|Rapido UHF| 14.5mm |
+|Dragon with crazy NV volcano| not compatible (Unless you add the UHV v6 adapter (then use 16mm) or hotend universal adapter plate is thicker to lower the hotend) |
+|Magnum+| 18mm |
 
-<img width="1071" alt="image" src="https://user-images.githubusercontent.com/37383368/219797821-8ba91ed2-f33f-4504-8bbd-16ef6ae75e28.png">
+<img width="1066" alt="image" src="https://user-images.githubusercontent.com/37383368/220183537-353e577d-fb8e-443a-92f1-499e1bb72592.png">
+
+BOM:
+- 4 x M3 heat inserts
+- 2 x M3 10mm (For rear fan duct to sliding mount)
+- 2 x M3 (For brace scalable spacers lenght will vary based on your hotend)
+- 2 x M3 6mm Ultra low profile (Provided in the kit)
+
 
 
 
