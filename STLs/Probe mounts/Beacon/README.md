@@ -14,6 +14,12 @@ Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will
 
 <img width="1066" alt="image" src="https://user-images.githubusercontent.com/37383368/220183537-353e577d-fb8e-443a-92f1-499e1bb72592.png">
 
+BOM:
+- 4 x M3 heat inserts
+- 2 x M3 10mm (For rear fan duct to sliding mount)
+- 2 x M3 (For brace scalable spacers lenght will vary based on your hotend)
+- 2 x M3 6mm Ultra low profile (Provided in the kit)
+
 
 
 
