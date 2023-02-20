@@ -12,7 +12,8 @@ Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will
 |Dragon with crazy NV volcano| not compatible (Unless you add the UHV v6 adapter (then use 16mm) or hotend universal adapter plate is thicker to lower the hotend) |
 |Magnum+| 18mm |
 
-<img width="1071" alt="image" src="https://user-images.githubusercontent.com/37383368/219797821-8ba91ed2-f33f-4504-8bbd-16ef6ae75e28.png">
+<img width="1066" alt="image" src="https://user-images.githubusercontent.com/37383368/220183537-353e577d-fb8e-443a-92f1-499e1bb72592.png">
+
 
 
 
