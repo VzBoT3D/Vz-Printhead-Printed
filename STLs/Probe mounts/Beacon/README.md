@@ -20,6 +20,12 @@ BOM:
 - 2 x M3 (For brace scalable spacers lenght will vary based on your hotend)
 - 2 x M3 6mm Ultra low profile (Provided in the kit)
 
+## Probe offset:
+X:0 Y:30.884
+
+<img width="830" alt="image" src="https://user-images.githubusercontent.com/37383368/224377129-61024360-62c8-400e-9607-193bcffa49c0.png">
+
+
 
 
 
