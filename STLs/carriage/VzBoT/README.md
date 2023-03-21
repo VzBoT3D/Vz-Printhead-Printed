@@ -5,6 +5,7 @@ Print settings:
 
 <img width="1092" alt="image" src="https://user-images.githubusercontent.com/37383368/213075816-6ffb9a93-7a27-463c-a308-074c7f01f1be.png">
 
+(VzBoT only:)
 ## Belt Clips:
 Please note that the smooth idler sides will need to pinch belts on their smooth side to achieve alignment. So use the according belt clips. Vz330 and 235 have oposite idler positions.
 Toothed:
